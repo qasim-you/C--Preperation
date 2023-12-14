@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std ;
 int main() {
-   cout<<"My Nmae is qasim"  ;
+  int arr[0][0] =10 ;
+  cout<<arr
    return 0 ;
    
 }
